@@ -2,7 +2,31 @@
   "posts": [
     {
       "id": 1,
-      "companyName": "hello"
+      "companyName": "hello1"
+    },
+        {
+      "id": 1,
+      "companyName": "hello2"
+    },
+        {
+      "id": 1,
+      "companyName": "hello3"
+    },
+        {
+      "id": 1,
+      "companyName": "hello4"
+    },
+        {
+      "id": 1,
+      "companyName": "hello5"
+    },
+        {
+      "id": 1,
+      "companyName": "hello6"
+    },
+        {
+      "id": 1,
+      "companyName": "hello7"
     }
   ],
   "profile": {
